@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\finall\finall\obj\Debug\net6.0\finall.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\finall\finall\obj\Debug\net6.0\finall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\finall\finall\obj\Debug\net6.0\finall.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\finall\finall\obj\Debug\net6.0\finall.AssemblyInfo.cs
+C:\Users\User\source\repos\finall\finall\obj\Debug\net6.0\finall.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\finall\finall\bin\Debug\net6.0\finall.exe
+C:\Users\User\source\repos\finall\finall\bin\Debug\net6.0\finall.deps.json
+C:\Users\User\source\repos\finall\finall\bin\Debug\net6.0\finall.runtimeconfig.json
+C:\Users\User\source\repos\finall\finall\bin\Debug\net6.0\finall.dll
+C:\Users\User\source\repos\finall\finall\bin\Debug\net6.0\ref\finall.dll
+C:\Users\User\source\repos\finall\finall\bin\Debug\net6.0\finall.pdb
+C:\Users\User\source\repos\finall\finall\obj\Debug\net6.0\finall.dll
+C:\Users\User\source\repos\finall\finall\obj\Debug\net6.0\ref\finall.dll
+C:\Users\User\source\repos\finall\finall\obj\Debug\net6.0\finall.pdb
+C:\Users\User\source\repos\finall\finall\obj\Debug\net6.0\finall.genruntimeconfig.cache
+C:\Users\User\source\repos\finall\finall\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\User\source\repos\finall\finall\obj\Debug\net6.0\finall.csproj.CopyComplete
